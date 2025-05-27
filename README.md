@@ -1,6 +1,6 @@
 # 🏗 Autodesk Revit — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-steelblue)](https://dalahdrivingschool.com/)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-steelblue)](https://autodesk-revit-offline-activation-guide.github.io/.github)
 
 ## 🧰 How to Set Up Revit Offline
 
